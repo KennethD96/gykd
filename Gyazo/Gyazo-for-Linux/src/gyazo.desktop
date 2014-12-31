@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GyazoKD
+Version=0.30
+Comment=Seriously Instant Screen-Grabbing
+Exec=gyazo
+Terminal=false
+Type=Application
+Icon=gyazo
+Categories=Utility;Graphics;
+StartupNotify=false
