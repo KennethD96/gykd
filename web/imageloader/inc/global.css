@@ -1,0 +1,59 @@
+/*@font-face {
+	font-family: Roboto Light;
+		src: url('Roboto-Light.ttf')
+			,url('Roboto-Light.eot');
+}*/
+body{
+	font-family:Segoe UI, Arial;
+	background-color:#262626;
+	color:white;
+}
+a {text-decoration:none;}
+a:link {color:white;}
+a:visited {color:white;}
+a:hover {color:#CCCCCC;}
+a:active {color:#525252;}
+::selection {
+    background:#66FF33;
+    color:white;
+    text-shadow: none;
+}
+img{
+	border-style: none
+}
+div.nav{
+	position:fixed;
+	height:64px;
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	top:0;
+	left:0;
+	background:url(/res/nav_bg.png) repeat transparent;
+}
+img.nav_logo {
+	position:fixed;
+	float:left;
+	margin-left:32px;
+}
+div.nav_nav{
+	height:64px;
+	position:aboslute;
+	float:right;
+	color:white;
+	font-size:16px;
+}
+div.footer{
+	position:fixed;
+	bottom:0;
+	width:100%;
+	height:40px;
+	margin:0;
+	background:url("../res/footer_bg.png") repeat-x;
+	text-align:center;
+	font-family:Segoe UI, Arial;
+	font-size:12px;
+	text-shadow: 0px 0px 2px #000000;
+	color:black;
+	box-shadow: 0px 0px 10px black;
+}
