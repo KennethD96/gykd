@@ -1,0 +1,3 @@
+<?php 
+	$hue = '<meta charset="utf-8"><title>(╯°□°）╯︵ ┻━┻ ＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥＨＵＥ</title><body style="background-color:1A1A1A;font-family:Segoe UI, Arial;"><br><p style="font-size:32;color:white;margin-left:2%;">(╯°□°）╯︵ ┻━┻ <span style="color:yellow";>ＨＵＥ</span><span style="color:red;">ＨＵＥ</span><span style="color:FF00FF">ＨＵＥ</span><span style="color:blue">ＨＵＥ</span><span style="color:00FF00">ＨＵＥ</span><span style="color:red">ＨＵＥ</span><span style="color:FF00FF">ＨＵＥ</span><span style="color:yellow">ＨＵＥ</span><span style="color:00FF00">ＨＵＥ</span><span style="color:00FFFF">ＨＵＥＨＵＥ</span><span style="color:blue">ＨＵＥ</span></p></body>';
+?>
