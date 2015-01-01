@@ -1,7 +1,7 @@
 body {
 	margin:0;
 	text-align:center;
-	background:url(/imageloader/res/body_bg.png) fixed;
+	background:url(/res/body_bg.png) fixed;
 	overflow-x: hidden;
 	top:0;
 	left:0;
@@ -22,7 +22,7 @@ body {
 }
 ::-webkit-scrollbar {
     width: 20px;
-	background:url("/imageloader/res/navbar_bg.png") bottom repeat-x transparent;
+	background:url("/res/navbar_bg.png") bottom repeat-x transparent;
 	background-color:#070707;
 }
 ::-webkit-scrollbar-track {
@@ -44,7 +44,7 @@ div.img_navbar{
 	margin-left:0;
 	bottom:0;
 	text-align:left;
-	background:url("/imageloader/res/navbar_bg.png") repeat-x transparent;
+	background:url("/res/navbar_bg.png") repeat-x transparent;
 }
 img.img_navlogo {
 	position:fixed;
